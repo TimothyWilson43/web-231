@@ -19,7 +19,7 @@
 module.exports = {
     display: function(f, l, a) {
         var msg = "\n" + f + " " + l + "\n" 
-            + a + "\nDate: " + new Date().toLocaleDateString(); 
+            + a + "\nDate: " + new Date().toLocaleDateString() + "\n"; 
         return msg; 
     }
 };
