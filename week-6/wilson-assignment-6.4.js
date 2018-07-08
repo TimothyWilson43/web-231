@@ -23,6 +23,8 @@ console.log(header.display("Timothy", "Wilson", "wilson-assignment-6.4"));
 
 // start program
 
+console.log(header.display("Timothy", "Wilson", "wilson-assignment-6.4"));
+
 var ticket = {
         id: "12345",
         name: "Ticket Fred",
