@@ -1,0 +1,13 @@
+table{
+    border: 1px;
+}
+thead{
+    color: white;
+    background-color: rgb(72, 126, 171);
+}
+#row2{
+    background-color: rgb(180, 201, 232);
+}
+#row4{
+    background-color: rgb(180, 201, 232);
+}
