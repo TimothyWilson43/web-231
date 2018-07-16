@@ -1,0 +1,19 @@
+table{
+    border: 1px solid;
+}
+th, td{
+    text-align: left;
+    border: 1px solid;
+}
+th{
+    color: white;
+    background-color: rgb(72, 126, 171);
+}
+tr:nth-child(even){
+    border: 1px solid;
+    background-color: rgb(180, 201, 232);
+}
+tr:nth-child(odd){
+    border: 1px solid;
+    background-color:white;
+}
