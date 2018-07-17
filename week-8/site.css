@@ -1,9 +1,6 @@
-table{
-    border: 1px solid;
-}
 th, td{
     text-align: left;
-    border: 1px solid;
+    
 }
 th{
     color: white;
@@ -16,4 +13,7 @@ tr:nth-child(even){
 tr:nth-child(odd){
     border: 1px solid;
     background-color:white;
+}
+tr:hover{
+    background-color: yellow;
 }

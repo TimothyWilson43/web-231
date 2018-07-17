@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/week-7/wilson-assignment-7.2.js"
+            "program": "${workspaceFolder}/week-8/wilson-assignment-8.4.html"
         }
     ]
 }
